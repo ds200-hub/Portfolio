@@ -18,7 +18,7 @@ function Home() {
             and modern web applications with clean UI and powerful backend.
           </p>
           <a
-            href="https://res.cloudinary.com/dtbjtelg3/image/upload/v1771476162/Deepak_Resume_gjmesr.pdf"
+            href="https://res.cloudinary.com/dtbjtelg3/image/upload/v1771562951/Deepak_Resume_3_p54jn4.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-8 inline-block bg-[#465697] hover:bg-blue-600 text-white 
