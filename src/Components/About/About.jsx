@@ -16,9 +16,9 @@ function About() {
           {/* Image */}
           <div className="flex justify-center lg:w-1/2">
             <img
-              src="/Images/3d boy enjoy.png"
+              src="https://res.cloudinary.com/dtbjtelg3/image/upload/v1783076579/3d_boy_enjoy_ubf5tq.png"
               alt="about"
-              className="w-64 sm:w-80 md:w-96 lg:w-[420px] hover:scale-105 transition duration-500"
+              className="w-64 sm:w-80 md:w-96 lg:w-105 hover:scale-105 transition duration-500"
             />
           </div>
 

@@ -33,9 +33,9 @@ function Home() {
         {/* Right Image */}
         <div className="lg:w-1/2 flex justify-center">
           <img
-            src="/Images/3d boy.png"
+            src="https://res.cloudinary.com/dtbjtelg3/image/upload/v1783076548/3d_boy_qjdppm.png"
             alt="boy"
-            className="w-64 sm:w-80 md:w-96 lg:w-[450px] 
+            className="w-64 sm:w-80 md:w-96 lg:w-112.5 
             hover:scale-105 transition duration-500"c
           />
         </div>
